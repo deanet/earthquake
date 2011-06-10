@@ -1,0 +1,1 @@
+/usr/local/lib/ruby/gems/1.8/gems/slop-1.7.0/lib/slop.rb

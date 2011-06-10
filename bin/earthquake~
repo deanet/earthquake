@@ -27,5 +27,5 @@ puts %q{
 gsub(/^\n/, '') + "v#{eq_dir.join('VERSION').read}".rjust(10) + "\n\n"
 print "\e[0m"
 
-require 'earthquake'
-Earthquake.start(options)
+#require 'earthquake'
+#Earthquake.start(options)

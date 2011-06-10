@@ -1,3 +1,37 @@
+gempabumi di terminal lebak bulus ;p
+=====
+
+Install dependecis:
+
+`# cat dep.xt | xargs gem install`
+
+Cara Install:
+
+`git clone https://github.com/jugyo/earthquake.git`
+
+cara jalanin
+
+`./earthquake/bin/earthquake`
+
+akan terlihat:
+
+1) open: https://bla bla bla..
+
+buka link diatas, klik authorized app, kopi nomornya
+
+2) Enter the PIN: 
+
+masukan nomor/pin token
+
+tadaa...
+
+![http://images.cjb.net/f46ff.png](http://images.cjb.net/f46ff.png)
+
+
+cara gunain silahkan baca manual `ketik :help`
+
+
+
 Earthquake
 ====
 

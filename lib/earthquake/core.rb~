@@ -53,7 +53,7 @@ module Earthquake
       config[:time_format]      ||= Time::DATE_FORMATS[:short]
       config[:plugin_dir]       ||= File.join(config[:dir], 'plugin')
       config[:file]             ||= File.join(config[:dir], 'config')
-      config[:prompt]           ||= '[terminal-lebak-bulus] '
+      config[:prompt]           ||= 'terminal-lebak-bulus '
       #config[:consumer_key]     ||= 'RmzuwQ5g0SYObMfebIKJag'
       #config[:consumer_secret]  ||= 'V98dYYmWm9JoG7qfOF0jhJaVEVW3QhGYcDJ9JQSXU'
 
