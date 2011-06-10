@@ -7,7 +7,7 @@ Install dependecis:
 
 Cara Install:
 
-`git clone git@github.com:deanet/earthquake.git`
+`git clone https://deanet@github.com/deanet/earthquake.git`
 
 cara jalanin
 

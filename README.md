@@ -1,16 +1,15 @@
 gempabumi di terminal lebak bulus ;p
 =====
 
-Install dependecis:
-
-`# cat dep.xt | xargs gem install`
-
 Cara Install:
 
+download source
 `git clone https://deanet@github.com/deanet/earthquake.git`
 
-cara jalanin
+Install dependecis:
+`# cat dep.xt | xargs gem install`
 
+cara jalanin
 `./earthquake/bin/earthquake`
 
 akan terlihat:
