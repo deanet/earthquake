@@ -1,6 +1,5 @@
 # rcov generated
 coverage
-*.*~
 # rdoc generated
 rdoc
 
@@ -34,9 +33,10 @@ pkg
 #tmtags
 #
 # For emacs:
-#*~
+*~
+*.*~
 #\#*
 #.\#*
 #
 # For vim:
-#*.swp
+*.swp
