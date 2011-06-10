@@ -26,7 +26,6 @@ masukan nomor/pin token
 tadaa...
 
 ![http://images.cjb.net/f46ff.png](http://images.cjb.net/f46ff.png)
-![http://images.cjb.net/0edab.png](http://images.cjb.net/0edab.png)
 
 cara gunain silahkan baca manual `ketik :help`
 
