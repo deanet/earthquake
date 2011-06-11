@@ -1,6 +1,5 @@
 eventmachine
 simple_oauth
-twitter
 notify
 i18n
 activesupport
@@ -10,5 +9,6 @@ launchy
 oauth
 json
 mime
+twitter-stream
 twitter_oauth
 slop
