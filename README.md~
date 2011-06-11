@@ -59,7 +59,14 @@ Commands
 ### See user
 
 	> :user username
-	> 
+	
+### See messages
+
+	> :messages 
+
+### Favorite
+	
+	> :favorite $xx
 
 ### Tweet
 

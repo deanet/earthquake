@@ -35,7 +35,7 @@ tadaa...
 
 cara gunain silahkan baca manual `ketik :help`
 
-log installasi bisa dilihat di ![https://gist.github.com/1020329](https://gist.github.com/1020329)
+log installasi bisa dilihat di [https://gist.github.com/1020329](https://gist.github.com/1020329)
 
 Usage
 ----
