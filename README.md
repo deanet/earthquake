@@ -47,6 +47,27 @@ Usage
 Commands
 ----
 
+### Mention
+
+	> :mentions
+
+### Follow
+
+	> :follow username
+	> :unfollow username
+
+### See user
+
+	> :user username
+	
+### See messages
+
+	> :messages 
+
+### Favorite
+	
+	> :favorite $xx
+
 ### Tweet
 
     ⚡ Hello World!
