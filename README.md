@@ -31,7 +31,7 @@ masukan nomor/pin token
 
 tadaa...
 
-![http://images.cjb.net/b0685.png](http://images.cjb.net/b0685.png)
+![https://github.com/deanet/earthquake/raw/master/earthquake.png](https://github.com/deanet/earthquake/raw/master/earthquake.png)
 
 cara gunain silahkan baca manual `ketik :help`
 
