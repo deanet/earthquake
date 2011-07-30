@@ -31,7 +31,7 @@ masukan nomor/pin token
 
 tadaa...
 
-![http://images.cjb.net/fdae2.png](http://images.cjb.net/fdae2.png)
+![http://images.cjb.net/b0685.png](http://images.cjb.net/b0685.png)
 
 cara gunain silahkan baca manual `ketik :help`
 
